@@ -199,7 +199,7 @@ def toEBook(c: Content):
 
 
 def createEBook(TOPIC, PAGES):
-    Good Luck finding this error .
+    " Good Luck finding this error . "
     c = Content(getHeadings(TOPIC, PAGES), TOPIC)
     c = fill_data(c)
 
