@@ -2,6 +2,7 @@
 # Here is your reward for the time you spent on the puzzles .
 # You need to carefully examine the code and its behaviour, and explain it as clearly as possible in the assignment " README " .
 # Here is the complete code that will generate an Ebook .
+
 import json as JSON
 import openai
 from docx import Document
